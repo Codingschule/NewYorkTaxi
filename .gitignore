@@ -67,3 +67,6 @@ taxi_zone_lookup.csv
 *.cpg
 *.xml
 *.qix
+
+#Parquet-Dateien
+*.parquet
